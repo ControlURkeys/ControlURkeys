@@ -1,3 +1,6 @@
+The purpose of this repo is to track the status of the growing number of Bitcoin ETF Applications. If you have something to add/change/delete please open a PR or issue. 
+
+
 | Proposed Name                           | Issuer                       | Dated 19b-4 Act Filed |                            | Drop dead response date 1933 ACT (19b-4 + 240 days)        | Type                |
 |-----------------------------------------|------------------------------|-----------------------|----------------------------|------------------------------------------------------------|---------------------|
 | VanEck Bitcoin Trust                    | VanEck                       | 3/15/2021             |                            | 11/10/2021                                                 | Physical            |
