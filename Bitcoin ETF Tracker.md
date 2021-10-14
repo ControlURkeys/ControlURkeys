@@ -23,3 +23,5 @@ The purpose of this repo is to track the status of the growing number of Bitcoin
 | Global X Bitcoin Trust                  | Global X Digital Assets      | 9/2/2021              | 11/2/2021                  | 12/17/2021                                                 | Futures/derivatives |
 | AdvisorShares Managed Bitcoin ETF       | Morgan Creek                 | 8/20/2021             | 11/3/2021                  | 12/18/2021                                                 | Futures/derivatives |
 | Bitwise Bitcoin Strategy Fund           | Bitwise                      | 9/14/2021             | 11/28/2021                 | 1/12/2022                                                  | Futures/derivatives |
+| BlockFi Bitcoin Strategy Fund           | Blockfi                      | 9/23/2021             | 11/7/2021                  | 12/22/2021                                                 | Futures/derivatives |
+| ARK 21Shares Bitcoin Futures Strategy   | ARK                          | 9/28/2021             | 11/12/2021                 | 12/27/2021                                                 | Futures/derivatives |
