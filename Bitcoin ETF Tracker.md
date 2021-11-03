@@ -11,7 +11,7 @@ The purpose of this repo is to track the status of the growing number of Bitcoin
 | Wise Origin Bitcoin Trust               | Fidelity                     | 5/10/2021             |                            | 1/5/2022                                                   | Physical            |
 | Kryptoin Bitcoin ETF Trust              | Kryptoin Investment Advisors | 4/10/2021             |                            | 12/24/2021                                                 | Physical            |
 | Galaxy Bitcoin ETF                      | Galaxy Digital               | ?                     |                            | ?                                                          |                     |
-| Grayscale GBTC ETF                      | Grayscale                    | 8/24/2021             |      12/24/2021            | ?                                                          |                     |
+| Grayscale GBTC ETF                      | Grayscale                    | 11/8/2021             |      12/24/2021   (+45 days| 7/6/2022                                                     |                     |
 |                                         |                              |                       |                            |                                                            |                     |
 |                                         |                              |                       |                            |                                                            |                     |
 | Name                                    | Issuer                       | 19b-4                 | 45 day response (1940 ACT) | dropdead (1940 ACT  filing +90 days not 240)               | Type                |
