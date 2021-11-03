@@ -1,7 +1,7 @@
 The purpose of this repo is to track the status of the growing number of Bitcoin ETF Applications. If you have something to add/change/delete please open a PR or issue. 
 
 
-| Proposed Name                           | Issuer                       | Dated 19b-4 Act Filed |                            | Drop dead response date 1933 ACT (19b-4 + 240 days)        | Type                |
+| Proposed Name                           | Issuer                       | Dated 19b-4 Act Filed |      Earliest              | Drop dead response date 1933 ACT (19b-4 + 240 days)        | Type                |
 |-----------------------------------------|------------------------------|-----------------------|----------------------------|------------------------------------------------------------|---------------------|
 | VanEck Bitcoin Trust                    | VanEck                       | 3/15/2021             |                            | 11/10/2021                                                 | Physical            |
 | Valkyrie Bitcoin Fund                   | Valkyrie Investments         | 4/23/2021             |                            | 12/19/2021                                                 | Physical            |
@@ -11,7 +11,7 @@ The purpose of this repo is to track the status of the growing number of Bitcoin
 | Wise Origin Bitcoin Trust               | Fidelity                     | 5/10/2021             |                            | 1/5/2022                                                   | Physical            |
 | Kryptoin Bitcoin ETF Trust              | Kryptoin Investment Advisors | 4/10/2021             |                            | 12/24/2021                                                 | Physical            |
 | Galaxy Bitcoin ETF                      | Galaxy Digital               | ?                     |                            | ?                                                          |                     |
-| GBTC ETF                                | Grayscale                    | ?                     |                            | ?                                                          |                     |
+| Grayscale GBTC ETF                      | Grayscale                    | 8/24/2021             |      12/24/2021            | ?                                                          |                     |
 |                                         |                              |                       |                            |                                                            |                     |
 |                                         |                              |                       |                            |                                                            |                     |
 | Name                                    | Issuer                       | 19b-4                 | 45 day response (1940 ACT) | dropdead (1940 ACT  filing +90 days not 240)               | Type                |
